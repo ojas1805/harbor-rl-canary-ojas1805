@@ -132,7 +132,7 @@ The Ablation did not reduce the observed success rate. This suggests that the mo
 
 ## 10. Demonstration
 
-**Loom video:** [Watch the Loom demonstration](https://www.loom.com/share/e5da80db687a4481af2e9a581e122fb8)
+**Loom video:** https://www.loom.com/share/e5da80db687a4481af2e9a581e122fb8
 
 The demonstration should cover:
 
